@@ -1,1 +1,3 @@
-# STAT489\n Files and notebooks for STAT489
+# STAT489
+
+Files and notebooks for STAT489
